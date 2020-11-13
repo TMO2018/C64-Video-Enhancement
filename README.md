@@ -1,5 +1,7 @@
 # C64 Video Enhancement by c0pperdragon
 
+TMO: I've made some changes to the pcb.
+
 FPGA based modification board for the Commodore 64 computer to produce YPbPr or RGB video output.
 
 The C64 is the most iconic device of the 8-bit computer era and there is a huge library of
