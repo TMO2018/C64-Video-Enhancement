@@ -1,4 +1,4 @@
-# C64 Video Enhancement
+# C64 Video Enhancement by c0pperdragon
 
 FPGA based modification board for the Commodore 64 computer to produce YPbPr or RGB video output.
 
