@@ -1,6 +1,6 @@
 # C64 Video Enhancement by c0pperdragon
 
-TMO: I've made some changes to the pcb.
+# TMO: I've made some changes to the pcb.
 
 FPGA based modification board for the Commodore 64 computer to produce YPbPr or RGB video output.
 
