@@ -209,10 +209,3 @@ Bit 15 of register 0 has a special function, as it can be used to suppress the s
 Writing a 1 into this bit will turn off sync on the Y line, whenever the 240p/288p output mode is selected.
 In this mode, the luminousity line of the original A/V connector can be used to get the sync signal from
 instead. 
-
-## Contact
-For technical questions and also to share your experience with this modification, please
-use the issue tracking system of github. 
-
-If you really insist on donating money, please feel free to send any amount to my paypal account: 
-reinhard.grafl (at) aon.at
