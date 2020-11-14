@@ -1,4 +1,4 @@
-# C64 Video Enhancement by c0pperdragon
+# C64 Video Enhancement
 
 The original project can be found here:
 https://github.com/c0pperdragon
