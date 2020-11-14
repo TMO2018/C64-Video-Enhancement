@@ -9,5 +9,5 @@ I've made some changes to the VIC II-Adapter pcb and the rfreplacement pcb.
 Fits better with a 407-board
 
 # rfreplacment
-Layout for hand soldering
+Layout for hand soldering (Rev 6.1 is based on c0pperdragons rev. 6)
 
