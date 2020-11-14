@@ -5,7 +5,7 @@ https://github.com/c0pperdragon
 
 I've made some changes to the VIC II-Adapter pcb and the rfreplacement pcb.
 
-# VIC II-Adapter (A
+# VIC II-Adapter (A-VideoBoard c64board)
 Fits better with a 407-board
 
 # rfreplacment
