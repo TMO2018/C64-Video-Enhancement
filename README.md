@@ -6,8 +6,12 @@ https://github.com/c0pperdragon
 I've made some changes to the VIC II-Adapter pcb and the rfreplacement pcb.
 
 # VIC II-Adapter (A-VideoBoard c64board)
-Fits better with a 407-board (Rev 3.1 is based on c0pperdragons Rev 3)
+Rev 3.1 is based on c0pperdragons Rev 3
+- Fits better with a 407-board
+- Layout for hand soldering (SMD 0805)
 
 # rfreplacment
-Layout for hand soldering (Rev 6.1 is based on c0pperdragons Rev 6)
+Rev 6.1 is based on c0pperdragons Rev 6
+- Layout for hand soldering (SMD 0805)
+- Video connector ist placed in the middle of the hole in the C64-housing
 
